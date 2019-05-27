@@ -421,14 +421,17 @@ footer{
         .ocean{
             
             width: 100%;
+            
         }
         .LightWaves{
            
             width: 55%;
+            height: 700px;
         }
         .DarkWaves {
             
             width: 55%;
+            height: 700px;
         }
     
        .cowboy{
