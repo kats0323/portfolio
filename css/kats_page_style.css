@@ -1,0 +1,1024 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Permanent+Marker");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai|Gugi|Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Sawarabi+Gothic");
+@import url("https://fonts.googleapis.com/css?family=Stylish");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Acme|Fjalla+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Gaegu&display=swap");
+
+*{
+    box-sizing: border-box;
+  }
+
+  
+
+body{
+    margin:0;
+}
+html {
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    
+}
+
+
+
+#top-wrapper{
+    padding-top: 200px;
+    height: 900px;
+    background: -moz-linear-gradient(top left,#086499, #043c5c,#033755,#022c44,#022438 ); 
+   background: -webkit-linear-gradient(top left,#086499, #043c5c,#033755,#022c44,#022438 ); 
+   background: linear-gradient(to bottom right, #086499, #043c5c,#033755,#022c44,#022438 ); 
+}
+.relative{
+  margin: 0 auto;
+    
+}
+
+.line1{
+    stroke: #fff; 
+    fill: none; 
+    stroke-width: 2.5; 
+    stroke-dasharray:  4000; 
+    stroke-dashoffset: 4000; 
+    animation: DASH2 2s ease-in-out alternate 0s forwards; 
+    -webkit-animation: DASH 2s ease-in-out alternate 0s forwards;
+     
+
+}
+
+.line2{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH2 1s ease-in-out alternate 0s forwards;
+    animation-delay: 0.3s;
+    -webkit-animation: DASH 1s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 0.3s;
+}
+
+.line3{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH2 1s ease-in-out alternate 0s forwards;
+    animation-delay: 0.6s;
+    -webkit-animation: DASH 1s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 0.6s;
+}
+.line4{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH2 3s ease-in-out alternate 0s forwards;
+    animation-delay: 1.3s;
+    -webkit-animation: DASH 3s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 1.3s;
+}
+.line5{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH2 3s ease-in-out alternate 0s forwards;
+    animation-delay: 1.8s;
+    -webkit-animation: DASH 3s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 1.8s;
+}
+.line6{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 2.5s ease-in-out alternate 0s forwards;
+    animation-delay: 2.2s;
+    -webkit-animation: DASH 2.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 2.2s;
+}
+.line7{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 5s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 3.5s;
+}
+.line8{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 3.8s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 3.8s;
+}
+.line9{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 4.2s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 4.2s;
+}
+.line10{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 4.5s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 4.5s;
+}
+.line11{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 4.9s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 4.9s;
+}
+.line12{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 5.3s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 5.3s;
+    
+}
+.line13{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4s ease-in-out alternate 0s forwards;
+    animation-delay: 5.7s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 5.7s;
+}
+.line14{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 3s ease-in-out alternate 0s forwards;
+    animation-delay: 6.1s;
+    -webkit-animation: DASH 3s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 6.1s;
+}
+.line15{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 2s ease-in-out alternate 0s forwards;
+    animation-delay: 6.5s;
+    -webkit-animation: DASH 2s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 6.5s;
+}
+.line16{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 7.5s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 7.5s;
+}
+.line17{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 7.9s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 7.9s;
+}
+.line18{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    animation-delay: 8.3s;
+    -webkit-animation: DASH 4.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 8.3s;
+}
+.line19{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 4s ease-in-out alternate 0s forwards;
+    animation-delay: 8.7s;
+    -webkit-animation: DASH 4s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 8.7s;
+}
+.line20{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 3.5s ease-in-out alternate 0s forwards;
+    animation-delay: 9.1s;
+    -webkit-animation: DASH 3.5s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 9.1s;
+}
+.line21{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 3s ease-in-out alternate 0s forwards;
+    animation-delay: 9.4s;
+    -webkit-animation: DASH 3s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 9.4s;
+}
+.line22{
+    stroke: #fff;
+    fill: none;
+    stroke-width: 2.5;
+    stroke-dasharray:  4000;
+    stroke-dashoffset: 4000;
+    animation: DASH 2.2s ease-in-out alternate 0s forwards;
+    animation-delay: 9.7s;
+    -webkit-animation: DASH 2.2s ease-in-out alternate 0s forwards;
+    -webkit-animation-delay: 9.7s;
+}
+
+
+@keyframes DASH2 {
+    0% {
+        stroke-dashoffset: 4000;
+        }
+        
+    50%{
+        /* fill: #fff; */
+    }
+    100% {
+        stroke-dashoffset: 0;
+        /* fill: #fff; */
+        }
+    }
+    @keyframes DASH {
+        0% {
+            stroke-dashoffset: 4000;
+            fill: #043c5c;
+            }
+            
+        
+        100% {
+            stroke-dashoffset: 0;
+            fill: #043c5c;
+            }
+        }
+@-webkit-keyframes DASH {
+    0% {
+        stroke-dashoffset: 4000;
+    }
+    100% {
+        stroke-dashoffset: 0;
+        
+      }
+    }
+   
+    .top-2 h2{
+        
+        font-size: 55px;
+        
+        text-align: center;
+        color: rgb(255, 255, 255);
+        text-shadow: #fff;
+        padding: 30px 0 30px 0;
+        stroke-width: 2.5px;
+        animation: FOO 12s ease-in-out alternate 0s forwards;
+        
+    }
+    @keyframes FOO{
+        0%{
+            opacity: 0;
+        }
+        /* 98%{
+            opacity: 0;
+        } */
+        98%{
+            opacity: 0;
+        }
+        99%{
+            opacity: 0.1;
+        }
+        100%{
+            opacity: 1;
+        }
+    }
+
+    
+
+      .bto {
+        
+        color: white;
+        display: inline-block;
+        
+        border-radius: 10px;
+        display: flex;
+        padding-top: 100px;
+        justify-content: center;
+        
+        
+        animation: FOO1 15s ease-in-out alternate 0s forwards;
+        
+    }
+    @keyframes FOO1{
+        0%{
+            opacity: 0;
+        }
+        98%{
+            opacity: 0;
+        }
+        99%{
+            opacity: 0.5;
+        }
+        100%{
+            opacity: 1;
+        }
+    }
+
+    
+
+      
+      
+      .bto:hover {
+        background-color: rgb(0, 255, 255);
+        border: 6px solid black;
+        color: black;
+        transition: all 4s;
+        box-shadow: none;
+        width: 550px;
+      }
+    
+      .access{
+          background-color: rgba(3, 55,85,0.1);
+          
+          width: 250px;
+          height: 70px;
+          
+        font-size: 37px;
+        padding-top: 10px;
+    margin: 0 auto;
+    text-decoration: none;
+    border: 2px solid white;
+    
+    box-shadow: 0px 5px rgb(1, 20, 31);
+      }
+      
+      .access a{
+        padding: 0 0;
+      }
+
+header{
+    background-color: rgba(34, 49, 52, 0.9);
+    width: 100%;
+    height: 65px;
+    position: fixed;
+  
+  z-index: 10;
+}
+#header-left a{
+    float:left;
+    font-size: 35px;
+    padding:7px 20px;
+    font-family: "Permanent Marker";
+    color: white;
+}
+#header-left a:hover{
+    color: goldenrod;
+}
+
+
+#header-right a{
+    list-style: none;
+    padding: 0 20px;
+    padding-bottom: 20px;
+    float: right;
+    font-size: 25px;
+    color: white;
+    font-family: "Baloo Bhai";
+
+}
+
+.about-background{
+    width: 100%;
+    
+    
+    height: 850px;
+        background: -moz-linear-gradient(top,#022e47,#023b5c,#034a74,#045c8f,#056eac,#0688d3,#a6d9f6,#c3e4f8, #FFF);
+        background: -webkit-linear-gradient(top,#022e47,#023b5c,#034a74,#045c8f,#056eac,#0688d3,#a6d9f6,#c3e4f8, #FFF);
+        background: linear-gradient(to bottom, #022e47,#023b5c,#034a74,#045c8f,#056eac,#0688d3,#a6d9f6,#c3e4f8, #FFF);
+        
+}
+
+
+.about-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #fff;
+    font-family: "Acme";
+    padding-top: 50px;
+    
+    
+}
+
+
+
+
+
+
+#about-wrapper h1{
+    font-size: 65px;
+    
+}
+.about-history p{
+    font-size: 26px;
+    letter-spacing: 2px;
+    
+}
+.about-education p{
+    font-size: 24px;
+    letter-spacing: 2px;
+    
+}
+.about-history{
+    width: 30%;
+    
+}
+.about-history span{
+    color: rgb(255, 115, 0);
+}
+.photo{
+    width: 30%;
+    
+    
+}
+.about-photo{
+  
+    height: 550px;
+  
+   background-image:  url("../pictures/kats.png");
+   background-size: cover;
+   display: flex;
+   
+   
+   
+}
+.about-photo:hover{
+    height: 0rem;
+    transition: all 5s ease-in-out;
+
+}
+.about-education{
+    width: 30%;
+}
+.about-education span{
+    color: rgb(56, 246, 9);
+}
+.skill span{
+    color: rgb(243, 84, 110);
+}
+.skill-icon{
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+
+#html{
+    display: flex;
+    flex-direction: row;
+    
+    width: 70px;
+    height: 70px;
+    
+
+}
+#css{
+    display: flex;
+    flex-direction: row;
+    
+    width: 70px;
+    height: 70px;
+    
+    
+}
+
+#ruby{
+    display: flex;
+    flex-direction: row;
+    
+    width: 70px;
+    height: 70px;
+   
+    
+}
+
+#git{
+    display: flex;
+    flex-direction: row;
+    
+    width: 70px;
+    height: 70px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+#projects-wrapper{
+    height: 1225px;
+    padding-bottom: 80px;
+   width: 100%;
+    text-align: center;
+   
+}
+
+#heading{
+    padding: 60px 0 30px 0;
+    
+}
+#heading h2{
+    font-weight: normal;
+    color: whitesmoke;
+}
+.project{ 
+ display: flex;
+ flex-direction: row;
+    justify-content: space-around;
+   
+
+    padding: 200px 0 30px 0;
+    animation: animate 5s linear infinite;
+    animation-play-state: running;
+} 
+
+.project-photo{
+    
+    
+    width:330px;
+    height: 330px;
+    
+    border-radius: 30px;
+} 
+.project-photo:nth-child(1){
+    
+    
+    
+    background-image:  url("../pictures/coding99.jpg");
+    background-size: contain;
+    border: 4px solid rgb(100, 197, 241);
+    
+} 
+.project-photo:nth-child(2){
+    
+    
+    
+    background-image:  url("../pictures/gun99.jpg");
+    background-size: contain;
+    border: 4px solid rgb(86, 196, 240);
+    
+} 
+.project-photo:nth-child(3){
+    
+    
+    
+    background-image:  url("../pictures/gunman99.jpg");
+    background-size: contain;
+    border: 4px solid rgb(63, 175, 250);
+    
+} 
+.project-photo:nth-child(4){
+    
+    
+    
+    background-image:  url("../pictures/winner99.jpg");
+    background-size: contain;
+    border: 4px solid rgb(51, 64, 250);
+    
+
+} 
+
+
+@keyframes animate{
+
+    0% {
+        
+        transform: translateX(0);
+    }
+    10% {
+        
+        transform: translateX(20px);
+    }
+    20% {
+       
+        transform: translateX(40px);
+    }
+    30% {
+        
+        transform: translateX(60px);
+    }
+    40% {
+        opacity: 1;
+        transform: translateX(40px);
+    }
+    50% {
+       
+        transform: translateX(20);
+    }
+    60% {
+        
+         transform: translateX(0);
+     }
+    70% {
+       
+        transform: translateX(-20px);
+    }
+    80% {
+        
+        transform: translateX(-40px);
+    }
+    90% {
+        
+         transform: translateX(-20px);
+     }
+     100% {
+        
+         transform: translateX(0);
+     }
+}
+.btn {
+    padding-top: 25px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 10px;
+    text-align: center;
+    
+  }
+  #header-right a:hover{
+    color: red;
+}
+  
+  .btn:hover {
+    background-color:red;
+    transition: all 4s;
+    width: 270px;
+    color: black;
+    border: 5px solid black;
+    font-family: "Permanent Marker";
+    font-size: 30px;
+  }
+
+  .cowboy{
+      border: 2px solid white;
+      background-color: black;
+      width: 230px;
+      height: 80px;
+      font-family: Gaegu;
+      
+    font-size: 36px;
+    padding: 0 20px 20px 20px;
+   
+
+
+  }
+  .btn-wrapper a{
+      padding: 0;
+      padding-top: 10px;
+  }
+  
+  .btn-wrapper{
+      padding-top: 40px;
+  }
+
+  #form{
+      padding: 80px 20px;
+  }
+  input, textarea{
+    background-color: rgba(13, 196, 233, 0.2);
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+    font-size: 18px;
+    border: 1px solid white;
+    color: white;
+}
+  #contact-wrapper{
+      width: 100%;
+    height: 850px;
+    text-align: center;
+    background-image: url("../pictures/renga2.png");
+    
+    background-size: cover;
+    padding-top: 25px;
+    margin: 0;
+}
+
+.contact {
+  
+    padding-top: 25px;
+    
+    font-family: Stylish;
+    display: inline-block;
+    color: #fff;
+    
+    letter-spacing: .05em;
+    font-size: 5em;
+    text-shadow: 0 1px 30px rgb(7, 200, 248), 0 0 12px #fff, 2px 5px 60px #0673b3;
+  }
+  .contact > span {
+    -webkit-animation: blink 3s infinite alternate;
+    animation: blink 4s infinite alternate;
+  }
+  @-webkit-keyframes blink {
+    40% {
+      opacity: 0.1;
+    }
+    42% {
+      opacity: 0.2;
+    }
+    43% {
+      opacity: 0.3;
+    }
+    45% {
+      opacity: 0.4;
+    }
+    46% {
+      opacity: 0.5;
+    }
+  }
+  @keyframes blink {
+    40% {
+      opacity: 1;
+    }
+    42% {
+      opacity: 0.7;
+    }
+    43% {
+      opacity: 0;
+    }
+    45% {
+      opacity: 0.2;
+    }
+    46% {
+      opacity: 0.5;
+    }
+  }
+  
+
+
+ 
+  
+  @keyframes mask {
+    0%{
+        opacity: 0
+    }
+    75%{
+        opacity: 0.3
+    }
+    80%{
+        opacity: 0.7
+    }
+    85%{
+        opacity: 1
+    }
+} 
+    
+
+.wrap {
+    width:200px; 
+    margin: 0 auto;
+    z-index:1;
+    padding-top: 65px;
+    
+}
+.sticker p {
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    padding-bottom: 50%;
+   font-family: "Baloo Bhai";
+    color:black;
+    font-size: 45px;
+
+
+  }
+
+
+
+
+  
+.sticker {
+    
+    z-index: -1;
+  width:200px;
+  height:200px;
+  position:relative;
+  
+  animation: spin 6s linear infinite;
+ 
+  animation-play-state: running;
+}
+
+.sticker:hover {
+  
+  
+  animation-play-state: paused; 
+}
+
+
+@keyframes spin {
+  100% {transform: rotate(1turn); 
+}
+}
+
+footer{
+    background: -moz-linear-gradient(top, black,#000508, #01141f,#022e47);
+        background: -webkit-linear-gradient(top, black,#000508, #01141f, #022e47);
+        background: linear-gradient(to bottom, black,#000508, #01141f, #022e47);
+    
+    height: 160px;
+    width: 100%;
+}
+#footer-logo{
+font-family: "Sawarabi Gothic";
+    float: right;
+    font-size: 25px;
+    padding-top: 60px;
+    padding-right: 20px;
+    color: rgb(6, 115, 134);
+}
+    
+#footer-logo:hover{
+    color: red;
+    font-size: 38px;
+    transition: all 1s ease-in-out;
+
+}
+
+
+
+.social_media {
+
+    font-size: 3em;
+    
+
+}
+
+.social_media li{
+    padding:10px;
+    
+    list-style: none;
+}
+
+.social_media ul{
+    padding-top: 20px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.social_media a{
+    padding: 0 20px;
+    color:rgb(6, 115, 134);
+    transition: all 0.5s ease-in-out;
+}
+.social_media a:hover{
+    font-size: 1.5em;
+    
+}
+#torii:hover {
+    color: red;
+}
+#twitter:hover{
+color:rgb(97, 230, 253);
+}
+#git-hub:hover{
+color: silver;
+}
+#instagram:hover{
+    color: rgb(156, 3, 74);
+}
+
+.sea{
+ height: 650px;
+        width: 100%;
+        position: fixed;
+        bottom: 0px;
+        z-index: -1;
+    
+}
+.ocean {
+    display: flex;
+    
+    justify-content: center;
+    width: 100%;
+   
+    
+    
+  }
+  
+  .LightWaves {
+    animation: lightwaves 2s infinite;
+    position: absolute;
+   width: 99%;
+    
+  }
+  
+  @keyframes lightwaves {
+      0%,100% { transform: translate(0,0); }
+      25%     { transform: translate(5px,5px); transform: scale(1.05); }
+      50%     { transform: translate(25px, 5px); }
+      75%     { transform: translate(12px,10px); transform: scale(1.05); }
+  }
+  
+  .DarkWaves {
+    animation: darkwaves 3.8s infinite;
+    width: 99%;
+  }
+  
+  @keyframes darkwaves {
+      0%,100% { transform: translate(0,0); }
+      25%     { transform: translate(25px, 5px); transform: scale(1.05); }
+      50%     { transform: translate(12px,10px); }
+      75%     { transform: translate(5px,5px); }
+  }
+  
+  
+.gap{
+    width: 100%;
+    height: 400px;
+    background: -moz-linear-gradient(top,#28A6E3, #2496E6,rgb(29, 127, 197),rgb(24, 107, 167), rgb(12, 60, 94),rgb(8, 37, 59), rgb(4, 20, 32),rgb(1, 6, 10),rgb(0, 1, 2),black);
+        background: -webkit-linear-gradient(top,#28A6E3, #2496E6,rgb(29, 127, 197),rgb(24, 107, 167), rgb(12, 60, 94),rgb(8, 37, 59), rgb(4, 20, 32),rgb(1, 6, 10),rgb(0, 1, 2),black);
+        background: linear-gradient(to bottom,#28A6E3, #2496E6,rgb(29, 127, 197),rgb(24, 107, 167), rgb(12, 60, 94),rgb(8, 37, 59), rgb(4, 20, 32),rgb(1, 6, 10),rgb(0, 1, 2),black);
+        border-radius: -1000px -1000px 0 0;
+}
+
+.message{
+    border: 4px solid rgb(10, 220, 248);
+    border-radius: 15px;
+    background-color: rgba(213, 242, 246, 0.5);
+    width: 750px;
+    height: 350px;
+    margin: 0 auto;
+    font-family: "Baloo Bhai";
+    font-size: 30px;
+    padding: 15px;
+
+}
+.message-rap{
+    margin-top: 150px;
+}
