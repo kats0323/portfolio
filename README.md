@@ -4,7 +4,7 @@
 Coder Academy. 2019.
 
 Github Link  
-https://github.com/kats0323
+https://github.com/kats0323/portfolio
 
 Website Link  
 https://kats-portfolio.netlify.com/
