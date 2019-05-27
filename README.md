@@ -6,9 +6,8 @@ Coder Academy. 2019.
 Github Link
 https://github.com/kats0323
 
-Website Link
-https://musing-agnesi-3fb075.netlify.com
-
+Website Link  
+https://kats-portfolio.netlify.com/
 
 
 ##Purpose
