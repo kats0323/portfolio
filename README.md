@@ -1,6 +1,6 @@
-#Katsuhiro Shimizu
+# Katsuhiro Shimizu
 ====
-##Portfolio (A1-3)
+## Portfolio (A1-3)
 Coder Academy. 2019.
 
 Github Link  
