@@ -67,13 +67,13 @@ Mobile
   ![Screen Shot 2019-05-26 at 12 51 05 pm](https://user-images.githubusercontent.com/46526995/58377617-fe1c5580-7fc7-11e9-81c2-c7f4f7e2cc16.png)  
   Mobile  
   ![Screen Shot 2019-05-26 at 12 50 45 pm](https://user-images.githubusercontent.com/46526995/58377618-007eaf80-7fc8-11e9-887e-9d1b060e2c8d.png)  
-  ##footer
+  ## footer
   ![Screen Shot 2019-05-26 at 12 51 14 pm](https://user-images.githubusercontent.com/46526995/58377623-1ab88d80-7fc8-11e9-8d9f-17fda46f23f5.png)  
     
  ## TRELLO  
     ![Screen Shot 2019-05-26 at 3 09 39 pm](https://user-images.githubusercontent.com/46526995/58377639-72ef8f80-7fc8-11e9-9377-e10f1c98d033.png)
     
-   #Short Answer Q&A
+   # Short Answer Q&A
 Describe key events in the development of the internet from the 1980s to today (max. 150 words)  
 
 One of the key events in the development of the Internet from the 1980s to today is the birth of TCP / IP. TCP / IP, also known as the Internet Protocol Suite, is the communication protocol that is available on most commercial networks. In 1982, this TCP / IP was standardized, and this brought about the concept of the Internet, and the speed of penetration has risen sharply.
